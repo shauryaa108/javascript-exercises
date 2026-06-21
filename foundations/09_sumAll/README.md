@@ -15,4 +15,4 @@ sumAll(1, 4) // returns the sum of 1 + 2 + 3 + 4 which is 10
 
 ## Note
 
-- This exercise only accepts positive integers.If there is a negative input, then it should return an error.
+- This exercise only accepts positive integers. If there is a negative input, then it should return an error.
